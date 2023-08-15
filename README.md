@@ -1,5 +1,8 @@
-<p align="center">
-  
+[![purohitdheeraj's GitHub | Languages Over Time](https://stats.quine.sh/purohitdheeraj/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=purohitdheeraj)
+[![purohitdheeraj's GitHub | Topics Over Time](https://stats.quine.sh/purohitdheeraj/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=purohitdheeraj)
+[![purohitdheeraj's GitHub | Stats](https://stats.quine.sh/purohitdheeraj/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=purohitdheeraj)
+[![purohitdheeraj's Stack Overflow | Stats](https://stats.quine.sh/purohitdheeraj/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=purohitdheeraj)
+<p align="center"> 
   <samp >
     Hey!! I'm Dheeraj Purohit :wave:
     <br><br>
