@@ -1,4 +1,4 @@
-# Hello World 👋 Welcome to my GitHub ✌
+# Hey there 👋 Welcome to my GitHub ✌
 I am passionate about Web and UX and currently exploring generative AI
 
 ## Web Front-end:
@@ -22,4 +22,8 @@ I am passionate about Web and UX and currently exploring generative AI
 <a href="mailto:purohitdheeraj89@gmail.com"><img src="https://img.shields.io/badge/gmail-%2320232a.svg?style=for-the-badge&logo=gmail&logoColor=%2361DAFB"/></a> &nbsp; &nbsp;
 </p>
 
+
+
 ⭐️ From [purohitdheeraj](https://github.com/purohitdheeraj)
+
+
