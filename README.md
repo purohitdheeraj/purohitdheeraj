@@ -16,6 +16,8 @@ I am passionate about Web and UX and currently exploring generative AI
 <img src="https://github-readme-stats.vercel.app/api?username=purohitdheeraj&theme=tokyonight&show_icons=true&count_private=true">
 <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purohitdheeraj&theme=tokyonight&layout=compact&langs_count=6">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=purohitdheeraj)](https://git.io/streak-stats)
+
 <p align="left">
 <a href="https://www.linkedin.com/in/dheeraj-purohit-79ba4a168/7"><img src="https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=%2361DAFB"/></a> &nbsp; &nbsp;
 <a href="https://dheeraj-purohit-portfolio.netlify.app/"><img src="https://img.shields.io/badge/portfolio-%2320232a.svg?style=for-the-badge&logo=portfolio&logoColor=%2361DAFB"/></a> &nbsp; &nbsp;
