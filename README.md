@@ -6,7 +6,9 @@ Greetings! I'm Dheeraj Purohit, a versatile Full Stack Developer based in Mumbai
 
 
 
-[![Twitter:https://twitter.com/the_indianyoga](https://img.shields.io/twitter/follow/the_indianyoga?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)](https://twitter.com/the_indianyoga) [![LinkedIn:https://www.linkedin.com/in/dheeraj-purohit-79ba4a168](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheeraj-purohit-79ba4a168) [![Blogs https://dev.to/purohitdheeraj](https://img.shields.io/badge/Check%20out%20my%20blogs%20on-Dev.to-%230A0A0A?style=for-the-badge)](https://dev.to/purohitdheeraj)
+[![Twitter:https://twitter.com/the_indianyoga](https://img.shields.io/twitter/follow/the_indianyoga?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)](https://twitter.com/the_indianyoga)
+[![LinkedIn:https://www.linkedin.com/in/dheeraj-purohit-79ba4a168](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheeraj-purohit-79ba4a168) 
+[![Blogs https://dev.to/purohitdheeraj](https://img.shields.io/badge/Check%20out%20my%20blogs%20on-Dev.to-%230A0A0A?style=for-the-badge)](https://dev.to/purohitdheeraj)
 
 
 
